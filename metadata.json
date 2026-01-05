@@ -1,0 +1,8 @@
+{
+  "name": "multi service AI",
+  "description": "A premium universal AI search and generation engine capable of real-time world exploration and hyper-realistic media creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
